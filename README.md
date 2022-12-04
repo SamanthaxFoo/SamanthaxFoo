@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamanthaxFoo
-- 👀 I’m interested in Data Analytics, FinTech and AI
-- 🌱 I’m currently in the Diploma of Financial Informatics, School of Infocomm Technology, Ngee Ann Polytechnic
+- 👀 Passionate abuot Data Analytics, FinTech and AI (& cute emojis!)
+- 🌱 I’m a freshman of the Singapore Management University, pursuing a Bachelor of Science in Information Systems
 
 
 <!---
