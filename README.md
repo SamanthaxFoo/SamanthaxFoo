@@ -1,5 +1,5 @@
 - 👋 Hi there! I’m @SamanthaxFoo
-- 👀 Passionate abuot Data Analytics, FinTech and AI (& these emojis!)
+- 👀 Passionate abuot Data Analytics, FinTech and AI
 - 🌱 A sophomore of Singapore Management University, pursuing a Bachelor of Science in Information Systems
 
 
