@@ -1,6 +1,6 @@
 - 👋 Hi there! I’m @SamanthaxFoo
 - 👀 Passionate abuot Data Analytics, FinTech and AI
-- 🌱 A sophomore of Singapore Management University, pursuing a Bachelor of Science in Information Systems
+- 🌱 A penultimate student of Singapore Management University, pursuing a Bachelor of Science in Information Systems (Business Analytics) with a 2nd Major in Data Science & Analytics
 
 
 <!---
